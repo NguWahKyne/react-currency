@@ -1,0 +1,13 @@
+
+.input-sty, .txt-sty{
+   font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+    border: solid 1px #f5f2f2f5;
+    background-color: #ffffffe8;
+}
+.input-sty:hover, .txt-sty:hover{
+    border-color: #20202080;
+    
+}
+
